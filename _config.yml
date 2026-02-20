@@ -1,6 +1,6 @@
 # main text of home
 title: Georgios Tsolakis
-bio: Postdoctoral Researcher and Instructor in the Department of Classics
+bio: Postdoctoral Researcher, Center for Hellenic Studies, Harvard University, and Institute for Historical Research, National Hellenic Research Foundation
 
 # twitter summary info
 description: Academic Portfolio
@@ -18,7 +18,7 @@ dark-theme: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://classics.uchicago.edu/people/georgios-tsolakis
+resume-url: https://github.com/tsolakisgeo
 
 url: https://tsolakisgeo.github.io/tsolakisgeo
 # your url: https://USERNAME.github.io
